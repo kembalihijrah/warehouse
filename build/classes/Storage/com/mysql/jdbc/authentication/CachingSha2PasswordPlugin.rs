@@ -1,0 +1,3 @@
+com.mysql.jdbc.authentication.CachingSha2PasswordPlugin
+com.mysql.jdbc.authentication.CachingSha2PasswordPlugin$AuthStage
+com.mysql.jdbc.authentication.CachingSha2PasswordPlugin.AuthStage

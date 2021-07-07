@@ -1,0 +1,3 @@
+com.mysql.jdbc.ExportControlled$StandardSSLSocketFactory
+com.mysql.jdbc.ExportControlled$X509TrustManagerWrapper
+com.mysql.jdbc.ExportControlled
